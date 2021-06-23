@@ -1,0 +1,118 @@
+.App {
+  width: 70%;
+  height: 300px;
+  margin: auto;
+  padding-top: 12px;
+}
+
+.ad2 {
+  display: flex;
+  align-items: center;
+}
+
+.ad2-d {
+  display: flex;
+  align-items: center;
+}
+
+.ad1 p {
+  opacity: 0.6;
+}
+
+.block1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.block2 {
+  position: relative;
+}
+
+.block2 input {
+  border: none;
+  background-color: #e9e9e9;
+  width: 250px;
+  padding: 10px 10px 10px 30px;
+  height: 40px;
+}
+
+.block2 svg {
+  position: absolute;
+  left: 10px;
+  top: 13px;
+}
+
+.block3 {
+  width: 100%;
+  height: 49px;
+  margin-bottom: -2px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #0f62fe;
+}
+
+.opt-bar {
+  display: inline-flex;
+  align-items: center;
+  margin: 9px;
+  padding: 1px;
+}
+
+.opt-bar p {
+  color: white;
+  margin-right: 3px;
+}
+
+.tsh-16 {
+  fill: white;
+}
+
+.inf-bar {
+  display: inline-flex;
+}
+
+.inf-bar p {
+  color: white;
+  align-items: baseline;
+  margin: 9px;
+  padding: 1px;
+}
+
+.alt-16 {
+  fill: white;
+}
+
+.btn p {
+  margin-right: 5px;
+}
+
+.rad-1 {
+  margin: 12px;
+}
+
+.add-btn {
+  display: flex;
+  align-items: center;
+  background-color: #0f62fe;
+}
+
+.add-btn-16 {
+  fill: white;
+  margin-right: 6px;
+}
+
+.bx--modal-close__icon {
+  height: 16px;
+}
+
+.dttable {
+  padding-left: 0px;
+}
+
+.toggle-icon {
+  opacity: 0;
+}
+
+.bx--data-table tbody tr:hover .toggle-icon {
+  opacity: 1;
+}
